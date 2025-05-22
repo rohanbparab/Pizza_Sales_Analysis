@@ -1,4 +1,5 @@
 Pizza Sales Analysis – SQL Project
+
 This is my first SQL project, where I performed an ad-hoc analysis on a pizza sales dataset.
 
 The goal was to explore sales trends, pizza popularity, and pricing using basic to advanced SQL queries. This helped me practice various SQL concepts including filtering, aggregation, joins, subqueries, CTEs, and window functions.
